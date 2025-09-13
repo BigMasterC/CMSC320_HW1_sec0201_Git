@@ -12,3 +12,7 @@ Answer: Merging joins together two seperate branches by creating a new
 "merge commit" that preserves the full history of both. Rebasing, however,
 rewrites the project's history by moving and re-applying commits to create a
 clean, linear sequence.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Finishing my classes and graduating!
