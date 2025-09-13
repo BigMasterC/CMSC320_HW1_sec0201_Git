@@ -5,3 +5,10 @@ Answer: It's industry standard, and easy to use/learn!
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance! Think Quant Trading or just work that deals with Excel sheets.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging joins together two seperate branches by creating a new 
+"merge commit" that preserves the full history of both. Rebasing, however,
+rewrites the project's history by moving and re-applying commits to create a
+clean, linear sequence.
